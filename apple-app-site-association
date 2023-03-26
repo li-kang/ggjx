@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "L59X7SMS6G.xyz.xianbei.repeater",
-                "paths": [ "/wechat/*"]
+                "paths": [ "*", "/wechat/*"]
             }
         ]
     }
